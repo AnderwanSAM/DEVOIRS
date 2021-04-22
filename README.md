@@ -81,11 +81,12 @@ e. {<bcolor> | ∃ sid, bid, day (
 **Q6**
 
 a) 
-| Left-Aligned  | Center Aligned  | Right Aligned |R|
-| :------------ |:---------------:| :-----:|-----:|
-| col 3 is      | some wordy text | $1600 |k|
-| col 2 is      | centered        |   $12 |l|
-| zebra stripes | are neat        |    $1 |L
+|  | RO | R1 |R2|R3|
+| :------------ |:---------------:| :-----:|-----:|-----:|
+| OPEL    | 1 | 1|0|0|
+| Peugeot      | 0        |  0 |l|0|
+| BMW | 0|    0 |0|1|
+
 
 **Q7-hachage**
 
