@@ -75,3 +75,20 @@ e. {<bcolor> | ∃ sid, bid, day (
 
 
 **Q5 - B+Tree**
+
+
+
+**Q6**
+
+a) 
+| Left-Aligned  | Center Aligned  | Right Aligned |R|
+| :------------ |:---------------:| :-----:|-----:|
+| col 3 is      | some wordy text | $1600 |k|
+| col 2 is      | centered        |   $12 |l|
+| zebra stripes | are neat        |    $1 |L
+
+**Q7-hachage**
+
+a): 2, 0, 2, 0, 1, 0, 0,0 , 0, 0
+n) Non il ne s'agit pas d'une bonne fonction de hachage car olusieurs valeurs differents ont le meme index de hachage
+
